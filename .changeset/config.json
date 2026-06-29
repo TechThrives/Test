@@ -8,6 +8,6 @@
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
   "ignore": [
-    "@repo/eslint-config",
+    "@repo/eslint-config"
   ]
 }
