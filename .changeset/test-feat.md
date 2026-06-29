@@ -1,5 +1,5 @@
 ---
-"package-name": patch
+"package-name": @repo/ui
 ---
 
 Your changeset summary here.
