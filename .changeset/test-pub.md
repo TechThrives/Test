@@ -1,5 +1,5 @@
 ---
-"@repo/ui": major
+"@repotest/ui": major
 ---
 
 Your changeset major
