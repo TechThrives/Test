@@ -1,5 +1,5 @@
 ---
-"@repo/ui": patch
+"@repotest/ui": patch
 ---
 
 Your changeset patch
