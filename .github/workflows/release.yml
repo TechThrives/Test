@@ -77,6 +77,9 @@ jobs:
 
       - name: Publish to npm
         run: pnpm changeset publish
+
+      - name: List tags
+        run: git tag
         
       - name: Push tags
-        run: git push origin --tags
+        run: git push --follow-tags
