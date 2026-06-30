@@ -1,4 +1,4 @@
-# @repo/ui
+# @repotest/ui
 
 ## 1.0.0
 
