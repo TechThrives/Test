@@ -55,6 +55,9 @@ jobs:
       id-token: write
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GH_PAT }}
 
       - uses: pnpm/action-setup@v6
 
