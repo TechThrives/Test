@@ -4,6 +4,17 @@
 
 ### Major Changes
 
+- e04ddaa: Your changeset major
+
+### Patch Changes
+
+- 0f2d243: Your changeset patch
+- 8380fab: Your changeset patch
+
+## 1.0.0
+
+### Major Changes
+
 - 5d63864: Your changeset major
 
 ## 0.1.0
