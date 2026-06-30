@@ -1,5 +1,11 @@
 # @repotest/ui
 
+## 1.0.2
+
+### Patch Changes
+
+- c00aafb: patch tags upload
+
 ## 1.0.1
 
 ### Patch Changes
